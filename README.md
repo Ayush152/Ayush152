@@ -1,6 +1,6 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Ayush</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Ayush Garg</h1>
 <h3 align="center">I'm a passionate Front End Developer from India.</h3>
 
 
@@ -71,7 +71,7 @@
 
 <a href = "https://www.linkedin.com/in/ayush-garg-303354201/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/AyushGa34646138"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/_ayush.garg_/?hl=en"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.pnw.png"/>"/></a>
+<a href = "https://www.instagram.com/_ayush.garg_/?hl=en"><img src="https://img.icons8.com/fluency/48/000000/instagram-new.png"/></a>
 <a href = "https://www.facebook.com/ayushgarg152"><img src="https://img.icons8.com/color/48/000000/facebook-new.png"/></a>
 
 </p>
