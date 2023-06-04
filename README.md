@@ -1,14 +1,16 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Ayush Garg</h1>
-<h3 align="center">I'm a passionate Front End Developer from India.</h3>
+<h3 align="center">I'm a passionate Developer from India.</h3>
 
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[Ares Application](https://aresroboticsnsut.com/)**
+- 🔭 I’m currently working on **[Theft Detection Webapp](https://github.com/Kunal-5402/Theftify)**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
+
+- 🌱 I’m currently learning **Machine Learning and Deep Learning.**
 
 - 👯 I’m looking to participate in some good **Hackathons**
 
