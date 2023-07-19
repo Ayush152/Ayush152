@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[Theft Detection Webapp](https://github.com/Kunal-5402/Theftify)**
+- 🔭 I’m currently working on **[Theft Detection Model](https://github.com/Kunal-5402/Theftify)**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
